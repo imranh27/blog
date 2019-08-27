@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Imran Hashmi</title>
-    <link>https://imranh27-blog.netlify.com/</link>
-    <description>Recent content on Imran Hashmi</description>
+    <title>start on Imran Hashmi</title>
+    <link>https://imranh27-blog.netlify.com/tags/start/</link>
+    <description>Recent content in start on Imran Hashmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 20:44:39 +0100</lastBuildDate>
     
-	<atom:link href="https://imranh27-blog.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://imranh27-blog.netlify.com/tags/start/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>First post &amp;ldquo;Thinking is nothing but talking to yourself on the inside&amp;rdquo; Richard Feynman.
 Hello, so this is a the beginning of my blog and taking that classic quote to heart, I guess this is a way for me to talk to myself a bit clearer and in a bit more organised manner.
 The posts will range across a range of topics, from books I am or have read, to software development or just anything that my brain seems to find interesting.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://imranh27-blog.netlify.com/about/</link>
-      <pubDate>Mon, 26 Aug 2019 10:52:37 +0100</pubDate>
-      
-      <guid>https://imranh27-blog.netlify.com/about/</guid>
-      <description>So, who am I? Well, I am currently a Business Intelligence Developer living in York, UK. I have been a BI Developer and for a wee while and have spent most of my career up to my elbows in SQL. But I have been gravitating towards developing structure in code.
-From when I was little, the things I loved.. Structured drawing, technical drawing, engineering of all kinds. I am a sucker for an exploded diagram!</description>
     </item>
     
   </channel>

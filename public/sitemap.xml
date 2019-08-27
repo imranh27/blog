@@ -3,11 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://imranh27-blog.netlify.com/posts/first-post/</loc>
+    <lastmod>2019-08-26T20:44:39+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://imranh27-blog.netlify.com/</loc>
+    <lastmod>2019-08-26T20:44:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imranh27-blog.netlify.com/posts/</loc>
+    <lastmod>2019-08-26T20:44:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imranh27-blog.netlify.com/tags/start/</loc>
+    <lastmod>2019-08-26T20:44:39+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://imranh27-blog.netlify.com/tags/</loc>
+    <lastmod>2019-08-26T20:44:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imranh27-blog.netlify.com/about/</loc>
+    <lastmod>2019-08-26T10:52:37+01:00</lastmod>
   </url>
   
 </urlset>
