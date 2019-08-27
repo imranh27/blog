@@ -1,2 +1,3 @@
 # blog
-Repo for my blog
+
+The following repository is for my blog, it has been created using hugo.
