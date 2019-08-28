@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Imran Hashmi</title>
-    <link>https://imranh27-blog.netlify.com/</link>
-    <description>Recent content on Imran Hashmi</description>
+    <title>maths on Imran Hashmi</title>
+    <link>https://imranh27-blog.netlify.com/tags/maths/</link>
+    <description>Recent content in maths on Imran Hashmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 27 Aug 2019 21:07:51 +0100</lastBuildDate>
     
-	<atom:link href="https://imranh27-blog.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://imranh27-blog.netlify.com/tags/maths/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       
       <guid>https://imranh27-blog.netlify.com/posts/mind-for-numbers/</guid>
       <description>A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley I was reading an article on a site where the author was listing their favourite books that made them fall in love with Maths. One of the first books they mentioned was A Mind for Numbers by Barbara Oakley, and this intrigued me. So I have been reading this this past week and, whilst there is precious little Maths in here, but it does detail how to approach learning.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://imranh27-blog.netlify.com/posts/first-post/</link>
-      <pubDate>Mon, 26 Aug 2019 20:44:39 +0100</pubDate>
-      
-      <guid>https://imranh27-blog.netlify.com/posts/first-post/</guid>
-      <description>First post &amp;ldquo;Thinking is nothing but talking to yourself on the inside&amp;rdquo; Richard Feynman.
-Hello, so this is a the beginning of my blog and taking that classic quote to heart, I guess this is a way for me to talk to myself a bit clearer and in a bit more organised manner.
-The posts will range across a range of topics, from books I am or have read, to software development or just anything that my brain seems to find interesting.</description>
     </item>
     
   </channel>

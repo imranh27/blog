@@ -6,8 +6,44 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 26 Aug 2019 20:44:39 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 27 Aug 2019 21:07:51 +0100</lastBuildDate>
 		<atom:link href="https://imranh27-blog.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Mind for Numbers</title>
+			<link>https://imranh27-blog.netlify.com/posts/mind-for-numbers/</link>
+			<pubDate>Tue, 27 Aug 2019 21:07:51 +0100</pubDate>
+			
+			<guid>https://imranh27-blog.netlify.com/posts/mind-for-numbers/</guid>
+			<description>A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley I was reading an article on a site where the author was listing their favourite books that made them fall in love with Maths. One of the first books they mentioned was A Mind for Numbers by Barbara Oakley, and this intrigued me. So I have been reading this this past week and, whilst there is precious little Maths in here, but it does detail how to approach learning.</description>
+			<content type="html"><![CDATA[
+
+<h2 id="a-mind-for-numbers-how-to-excel-at-math-and-science-by-barbara-oakley">A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley</h2>
+
+<p>I was reading an article on a site where the author was listing their favourite books that made them fall in love with Maths. One of the first books they mentioned was A Mind for Numbers by Barbara Oakley, and this intrigued me. So I have been reading this this past week and, whilst there is precious little Maths in here, but it does detail how to approach learning.</p>
+
+<p>The key elements of the book which stand out for me are;</p>
+
+<ul>
+<li>How to deal with procrastination.</li>
+<li>How to develop and maintain focus.</li>
+<li>Thinking Modes and how to use them.</li>
+<li>Spaced practice.</li>
+<li>Chunking problems.</li>
+<li>Testing - test yourself to help you to learn.</li>
+</ul>
+
+<p>Looking at that list I could not help but realise that these are issues which most of us deal with in our day to day lives and things which I need to get better with. Especially in the Developer world.</p>
+
+<p>So I have been applying some of the techniques, to deal with procrastination I have been using the <a href="https://francescocirillo.com/pages/pomodoro-technique">pomodoro technique</a> (which my fried Graeme told me about years ago&hellip;sorry Graeme&hellip;), it goes hand in hand with the thinking modes. The thinking modes are interesting as the book describes two modes, Direct, where you sit and focus on what you are wanting to learn or do, and Diffuse mode, where you are not actively focusing on a task and are engaged in an activity which allows you to not focus on a task, e.g. going for a walk. Diffuse mode allows your brain the space to be able to make associations in what you are learning which you may not originally have seen. This struck a chord as I often worked through a problem all afternoon and at the end of the day I pack up my stuff and head home, only to find half way back I figure out how to solve the problem!!</p>
+
+<p>The pomodoro technique will hopefully become more natural as time goes on (I am quite tired by the end of the day when I use this technique).</p>
+
+<p>I guess the core of this is to build good habits, and that only happens with consistent behaviour. Improvement then comes with deliberate practice. Whereby we break a larger task or problem down in to smaller parts and deliberately iterate through that part to ingrain it, so that we chunk that process in to our deeper memory to make the the solving of that problem more fluid and automatic next time.</p>
+
+<p>Lots to think about, all in all, I can throughly recommend this book.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>First Post</title>
