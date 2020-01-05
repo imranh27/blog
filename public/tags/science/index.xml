@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Imran Hashmi</title>
-    <link>https://imranh27-blog.netlify.com/tags/books/</link>
-    <description>Recent content in books on Imran Hashmi</description>
+    <title>science on Imran Hashmi</title>
+    <link>https://imranh27-blog.netlify.com/tags/science/</link>
+    <description>Recent content in science on Imran Hashmi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 05 Jan 2020 13:14:36 +0000</lastBuildDate>
     
-	<atom:link href="https://imranh27-blog.netlify.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://imranh27-blog.netlify.com/tags/science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://imranh27-blog.netlify.com/posts/ai-super-powers/</guid>
       <description>AI Super-powers China, Silicon Valley and the New World Order. By Kai-Fu Lee I stumbled across Kai-Fu Lee on the on the Lex Fridman AI Podcast, as an aside, this podcast is brilliant and I highly recommend it. The Kai-Fu Lee episode really made me think about societal structure and the role of education. Both the host, Lex Fridman and Kai-Fu both had a deep and humble conversation and they impressed me very much.</description>
-    </item>
-    
-    <item>
-      <title>Mind for Numbers</title>
-      <link>https://imranh27-blog.netlify.com/posts/mind-for-numbers/</link>
-      <pubDate>Tue, 27 Aug 2019 21:07:51 +0100</pubDate>
-      
-      <guid>https://imranh27-blog.netlify.com/posts/mind-for-numbers/</guid>
-      <description>A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley I was reading an article on a site where the author was listing their favourite books that made them fall in love with Maths. One of the first books they mentioned was A Mind for Numbers by Barbara Oakley, and this intrigued me. So I have been reading this this past week and, whilst there is precious little Maths in here, but it does detail how to approach learning.</description>
     </item>
     
   </channel>

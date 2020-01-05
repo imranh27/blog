@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imran Hashmi</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 21:07:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 13:14:36 +0000</lastBuildDate>
     
 	<atom:link href="https://imranh27-blog.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ai Super Powers</title>
+      <link>https://imranh27-blog.netlify.com/posts/ai-super-powers/</link>
+      <pubDate>Sun, 05 Jan 2020 13:14:36 +0000</pubDate>
+      
+      <guid>https://imranh27-blog.netlify.com/posts/ai-super-powers/</guid>
+      <description>AI Super-powers China, Silicon Valley and the New World Order. By Kai-Fu Lee I stumbled across Kai-Fu Lee on the on the Lex Fridman AI Podcast, as an aside, this podcast is brilliant and I highly recommend it. The Kai-Fu Lee episode really made me think about societal structure and the role of education. Both the host, Lex Fridman and Kai-Fu both had a deep and humble conversation and they impressed me very much.</description>
+    </item>
     
     <item>
       <title>Mind for Numbers</title>

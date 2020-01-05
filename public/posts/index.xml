@@ -6,8 +6,24 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 27 Aug 2019 21:07:51 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 05 Jan 2020 13:14:36 +0000</lastBuildDate>
 		<atom:link href="https://imranh27-blog.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Ai Super Powers</title>
+			<link>https://imranh27-blog.netlify.com/posts/ai-super-powers/</link>
+			<pubDate>Sun, 05 Jan 2020 13:14:36 +0000</pubDate>
+			
+			<guid>https://imranh27-blog.netlify.com/posts/ai-super-powers/</guid>
+			<description>AI Super-powers China, Silicon Valley and the New World Order. By Kai-Fu Lee I stumbled across Kai-Fu Lee on the on the Lex Fridman AI Podcast, as an aside, this podcast is brilliant and I highly recommend it. The Kai-Fu Lee episode really made me think about societal structure and the role of education. Both the host, Lex Fridman and Kai-Fu both had a deep and humble conversation and they impressed me very much.</description>
+			<content type="html"><![CDATA[<h2 id="ai-super-powers-china-silicon-valley-and-the-new-world-order-by-kai-fu-lee">AI Super-powers China, Silicon Valley and the New World Order. By Kai-Fu Lee</h2>
+<p>I stumbled across Kai-Fu Lee on the on the <a href="https://lexfridman.com/ai/">Lex Fridman AI Podcast</a>, as an aside, this podcast is brilliant and I highly recommend it. The <a href="https://www.youtube.com/watch?v=cQ48rP_Rs4g&amp;list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4">Kai-Fu Lee episode</a> really made me think about societal structure and the role of education. Both the host, Lex Fridman and Kai-Fu both had a deep and humble conversation and they impressed me very much. Kai-Fu's <a href="https://www.amazon.co.uk/AI-Superpowers-China-Silicon-Valley/dp/132854639X">book</a> was then a very obvious next step!</p>
+<p>The book was pretty fascinating, what struck me was that in China, there appears to be a deep understanding that the government should build infrastructure and provide the raw ingredients for success. They invest in education, in physical infrastructure, and then build an environment, which through intense competition, provides opportunity and a proving ground for serial entrepreneurs, engineers and developers.</p>
+<p>On the AI front this then leads to a trove of data which is unprecedented. With very little concern about privacy. Although the government are stepping in in bringing in regulation regarding individuals privacy protection.</p>
+<p>The investment in STEM makes me long for a similar vision for us in the UK. That we have ready access to education, training and opportunities for even the most vulnerable parts of society. As opposed to the underfunding of our institutions, the greed and the rampant cruelty we have had for the past 40 years.</p>
+<p>The book is highly recommended, it will make you think.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Mind for Numbers</title>
@@ -16,14 +32,9 @@
 			
 			<guid>https://imranh27-blog.netlify.com/posts/mind-for-numbers/</guid>
 			<description>A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley I was reading an article on a site where the author was listing their favourite books that made them fall in love with Maths. One of the first books they mentioned was A Mind for Numbers by Barbara Oakley, and this intrigued me. So I have been reading this this past week and, whilst there is precious little Maths in here, but it does detail how to approach learning.</description>
-			<content type="html"><![CDATA[
-
-<h2 id="a-mind-for-numbers-how-to-excel-at-math-and-science-by-barbara-oakley">A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley</h2>
-
+			<content type="html"><![CDATA[<h2 id="a-mind-for-numbers---how-to-excel-at-math-and-science-by-barbara-oakley">A Mind for Numbers - How to Excel at Math and Science. By Barbara Oakley</h2>
 <p>I was reading an article on a site where the author was listing their favourite books that made them fall in love with Maths. One of the first books they mentioned was A Mind for Numbers by Barbara Oakley, and this intrigued me. So I have been reading this this past week and, whilst there is precious little Maths in here, but it does detail how to approach learning.</p>
-
 <p>The key elements of the book which stand out for me are;</p>
-
 <ul>
 <li>How to deal with procrastination.</li>
 <li>How to develop and maintain focus.</li>
@@ -32,15 +43,10 @@
 <li>Chunking problems.</li>
 <li>Testing - test yourself to help you to learn.</li>
 </ul>
-
 <p>Looking at that list I could not help but realise that these are issues which most of us deal with in our day to day lives and things which I need to get better with. Especially in the Developer world.</p>
-
 <p>So I have been applying some of the techniques, to deal with procrastination I have been using the <a href="https://francescocirillo.com/pages/pomodoro-technique">pomodoro technique</a> (which my friend Graeme told me about years ago&hellip;sorry Graeme&hellip;), it goes hand in hand with the thinking modes. The thinking modes are interesting as the book describes two modes, Direct, where you sit and focus on what you are wanting to learn or do, and Diffuse mode, where you are not actively focusing on a task and are engaged in an activity which allows you to not focus on a task, e.g. going for a walk. Diffuse mode allows your brain the space to be able to make associations in what you are learning which you may not originally have seen. This struck a chord as I often worked through a problem all afternoon and at the end of the day I pack up my stuff and head home, only to find half way back I figure out how to solve the problem!!</p>
-
 <p>The pomodoro technique will hopefully become more natural as time goes on (I am quite tired by the end of the day when I use this technique).</p>
-
 <p>I guess the core of this is to build good habits, and that only happens with consistent behaviour. Improvement then comes with deliberate practice. Whereby we break a larger task or problem down in to smaller parts and deliberately iterate through that part to ingrain it, so that we chunk that process in to our deeper memory to make the the solving of that problem more fluid and automatic next time.</p>
-
 <p>Lots to think about, all in all, I can throughly recommend this book.</p>
 ]]></content>
 		</item>
@@ -54,18 +60,11 @@
 			<description>First post &amp;ldquo;Thinking is nothing but talking to yourself on the inside&amp;rdquo; Richard Feynman.
 Hello, so this is a the beginning of my blog and taking that classic quote to heart, I guess this is a way for me to talk to myself a bit clearer and in a bit more organised manner.
 The posts will range across a range of topics, from books I am or have read, to software development or just anything that my brain seems to find interesting.</description>
-			<content type="html"><![CDATA[
-
-<h2 id="first-post">First post</h2>
-
+			<content type="html"><![CDATA[<h2 id="first-post">First post</h2>
 <p>&ldquo;Thinking is nothing but talking to yourself on the inside&rdquo; Richard Feynman.</p>
-
 <p>Hello, so this is a the beginning of my blog and taking that classic quote to heart, I guess this is a way for me to talk to myself a bit clearer and in a bit more organised manner.</p>
-
 <p>The posts will range across a range of topics, from books I am or have read, to software development or just anything that my brain seems to find interesting.</p>
-
 <p>Best wishes,</p>
-
 <p>Imran,</p>
 ]]></content>
 		</item>
