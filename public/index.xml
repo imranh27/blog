@@ -37,5 +37,16 @@ Hello, so this is a the beginning of my blog and taking that classic quote to he
 The posts will range across a range of topics, from books I am or have read, to software development or just anything that my brain seems to find interesting.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://imranh27-blog.netlify.app/about/</link>
+      <pubDate>Mon, 26 Aug 2019 10:52:37 +0100</pubDate>
+      
+      <guid>https://imranh27-blog.netlify.app/about/</guid>
+      <description>So, who am I? Well, I am currently a BI and Integration Developer living in York, UK. I have spent most of my career up to my elbows in SQL. But I have been gravitating towards developing structure in code.
+From when I was little, the things I loved.. Structured drawing, technical drawing, engineering of all kinds. I am a sucker for an exploded diagram!
+I loved Physics and Chemistry when I was growing up.</description>
+    </item>
+    
   </channel>
 </rss>

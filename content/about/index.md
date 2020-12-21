@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-08-26T10:52:37+01:00
-draft: true
+draft: false
 ---
 
 So, who am I? Well, I am currently a BI and Integration Developer living in York, UK. I have spent most of my career up to my elbows in SQL. But I have been gravitating towards developing structure in code.
